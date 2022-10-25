@@ -1,4 +1,4 @@
-ID,Gender,Age,EmployedStatus,YearsOfEmployed,OccupationType,IncomeType,TotalIncome,EducationLevel,HousingType,OwnCar,OwnProperty,FamilyStatus,NumOfChildren,NumOfFamilyMember,AccountActivateLength,WorkPhone,Phone,Email,Risk_TargetVariable
+ID,Gender,Age,UnemployedStatus,YearsOfEmployed,OccupationType,IncomeType,TotalIncome,EducationLevel,HousingType,OwnCar,OwnProperty,FamilyStatus,NumOfChildren,NumOfFamilyMember,AccountActivateLength,WorkPhone,Phone,Email,Risk_TargetVariable
 5008804,1,32.86857361889703,0,12.435573625741801,Other,Working,427500.0,Higher education,Rented apartment,1,1,Civil marriage,0,2,15,1,0,0,1
 5008806,1,58.79381506807121,0,3.1047865459249677,Security staff,Working,112500.0,Secondary / secondary special,House / apartment,1,1,Married,0,2,29,0,0,0,0
 5008808,0,52.32140290355038,0,8.353354278321937,Sales staff,Commercial associate,270000.0,Secondary / secondary special,House / apartment,0,1,Single / not married,0,1,4,0,1,1,0
