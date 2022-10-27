@@ -16,7 +16,7 @@
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
-**Algorithm:** Univariate， Logistic Regression, KNeighbors, SVC, Descision Tree, RandomForest
+**Algorithm:** Univariate，Logistic Regression, KNeighbors, SVC, Descision Tree, RandomForest
 
 **Libraries:** Pandas, NumPy, Scikit-Learn
 
