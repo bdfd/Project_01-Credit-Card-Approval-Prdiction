@@ -40,7 +40,7 @@ Analyze information
 3 continuous features: amt_income_type, days_birth, days_employed  
 1 constant feature: flag_mobil  
 **Reference:**  
-Resource:<a href="https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/code?datasetId=426827&sortBy=voteCount">Resource Dataset Reference</a>  
+Resource:<a href="https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/code?datasetId=426827&sortBy=voteCount">Kaggle Dataset</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Project_01-Credit_Card_Approval_Prdiction/main/dataset/application_record.csv">Original Dataset.csv</a>
 <a href="https://raw.githubusercontent.com/bdfd/Project_01-Credit_Card_Approval_Prdiction/main/dataset/credit_record.csv">Original Dataset.csv</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Project_01-Credit_Card_Approval_Prdiction/main/display%20demo/processed%20dataset.csv">Processed Dataset.csv</a>  
